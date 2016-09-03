@@ -1,0 +1,20 @@
+CHANGES for nemo-sendto-clamtk:
+
+0.03 - XX XXX 2016
+------------------
+        * Updated strings: Romanian (ro), English (en_AU),
+          Italian (it), Korean (ko_KR)
+        * Updated documentation and links
+
+0.02 - 15 Mar 2014
+------------------
+        * Updated strings: Dutch (nl), Czech (cs),
+          Serbian Latin (sr@latin), Marathi (mr),
+          Brazilian Portuguese (pt_BR), Portuguese (pt),
+          probably others
+        * Update years -> 2014
+
+
+0.01 - 16 Nov 2013
+------------------
+        * Initial release
