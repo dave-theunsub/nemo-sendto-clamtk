@@ -1,9 +1,12 @@
 README
 ------
+(Last updated 1 October 2017)
+
+## About
 
 nemo-sendto-clamtk is a simple plugin to allow a right-click,
-context menu scan of files or folders in the
-nemo, the file manager for Cinnamon.
+context menu scan of files or folders in nemo, the
+file manager for Cinnamon.
 
 All this plugin does is copy a desktop style file to the
 directory where nemo reads such things.  If this seems redundant,
@@ -12,24 +15,24 @@ which already has this directory file. So, it stands to
 reason we should be able to just find that file and
 copy it, rather than having our own copy.
 
-nemo-sendto-clamtk is available for Fedora and Debian/
-Ubuntu - or probably any system that can run Cinnamon.
+nemo-sendto-clamtk is available for Fedora, CentOS, and
+Debian|Ubuntu - or probably any system that can run Cinnamon.
 
-DEPENDENCIES
-------------
+Link to screenshot:
+* http://imgur.com/YgzL7xH
+
+## Dependencies
 
 clamtk >= 5.00
 nemo
 
-LINKS
------
+## Important Links
 
-https://github.com/dave-theunsub/nemo-sendto-clamtk
-https://gitlab.com/dave_m/nemo-sendto-clamtk
-https://bitbucket.org/dave_theunsub/nemo-sendto-clamtk/
+For feature requests or bugs, it's best to use one of the following:
 
-CONTACT
--------
+* https://github.com/dave-theunsub/nemo-sendto-clamtk
+* https://bitbucket.org/davem_/nemo-sendto-clamtk/
 
-email : Dave M, dave.nerd AT gmail DOT com
-0x6ADA59DE
+## Contact
+
+* Dave M, dave.nerd @gmail.com (0x6ADA59DE)
