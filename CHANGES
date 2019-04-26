@@ -1,20 +1,34 @@
 CHANGES for nemo-sendto-clamtk:
 
-0.03 - XX XXX 2016
-------------------
-        * Updated strings: Romanian (ro), English (en_AU),
-          Italian (it), Korean (ko_KR)
-        * Updated documentation and links
+0.05 - 20190426
+---------------
+    * Updated language strings: Khmer (km), Thai (th)
+    * Updated license information for language strings
+    * Updated website link to gitlab
 
-0.02 - 15 Mar 2014
-------------------
-        * Updated strings: Dutch (nl), Czech (cs),
-          Serbian Latin (sr@latin), Marathi (mr),
-          Brazilian Portuguese (pt_BR), Portuguese (pt),
-          probably others
-        * Update years -> 2014
+0.04 - 20171001
+---------------
+    * Updated language strings: Afrikaans (af), Basque (eu),
+        Punjabi (pa), Esperanto (eo)
+    * Updated documentation and links
+    * Changed README to use markdown (.md)
+    * Changed compression gz -> xz
+    * Fix permissions
 
+0.03 - 20160905
+---------------
+    * Updated strings: Romanian (ro), English (en_AU),
+        Italian (it), Korean (ko_KR)
+    * Updated documentation and links
 
-0.01 - 16 Nov 2013
-------------------
-        * Initial release
+0.02 - 20140315
+---------------
+    * Updated strings: Dutch (nl), Czech (cs),
+        Serbian Latin (sr@latin), Marathi (mr),
+        Brazilian Portuguese (pt_BR), Portuguese (pt),
+        probably others
+    * Update years -> 2014
+
+0.01 - 20131116
+---------------
+    * Initial release
