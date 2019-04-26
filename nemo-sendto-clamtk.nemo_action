@@ -1,25 +1,10 @@
-<<<<<<< HEAD
 # ClamTk, copyright (C) 2004-2019 Dave M
 #
 # This file is part of ClamTk.
 # https://gitlab.com/dave_m/clamtk/wikis/home
 #
 # nemo-sendto-clamtk.nemo_action 0.05
-=======
-# ClamTk, copyright (C) 2004-2017 Dave M
-#
-# This file is part of ClamTk.
-# https://dave-theunsub.github.io/clamtk/
-#
-# ClamTk is free software; you can redistribute it and/or modify it
-# under the terms of either:
-#
-# a) the GNU General Public License as published by the Free Software
-# Foundation; either version 1, or (at your option) any later version, or
-#
-# b) the "Artistic License".
-# nemo-sendto-clamtk.nemo_action 0.04
->>>>>>> 0839fcd1244016b1d590ba2bf4a4dbf9eb68deb4
+
 [Nemo Action]
 
 Name=Scan for threats...

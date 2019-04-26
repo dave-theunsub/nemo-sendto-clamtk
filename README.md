@@ -1,10 +1,6 @@
 README
 ------
-<<<<<<< HEAD
 Last updated 20190426
-=======
-(Last updated 1 October 2017)
->>>>>>> 0839fcd1244016b1d590ba2bf4a4dbf9eb68deb4
 
 ## About
 
@@ -34,16 +30,11 @@ nemo
 
 For feature requests or bugs, it's best to use one of the following:
 
-<<<<<<< HEAD
 * https://gitlab.com/dave_m/nemo-sendto-clamtk
 * https://bitbucket.org/davem_/nemo-sendto-clamtk/
   
 Deprecated:
 * https://github.com/dave-theunsub/nemo-sendto-clamtk
-=======
-* https://github.com/dave-theunsub/nemo-sendto-clamtk
-* https://bitbucket.org/davem_/nemo-sendto-clamtk/
->>>>>>> 0839fcd1244016b1d590ba2bf4a4dbf9eb68deb4
 
 ## Contact
 

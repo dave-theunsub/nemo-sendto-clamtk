@@ -1,6 +1,5 @@
 COPYRIGHT AND LICENSE
 
-<<<<<<< HEAD
 ClamTk, copyright (C) 2004-2019 Dave M
 https://gitlab.com/dave_m/clamtk
 https://gitlab.com/dave_m/clamtk/wikis/Home
@@ -12,11 +11,6 @@ http://clamtk.sourceforge.net
 http://code.google.com/p/clamtk/
 https://github.com/dave-theunsub/clamtk/
 https://dave-theunsub.github.io/clamtk/
-=======
-nemo-sendto-clamtk, copyright (C) 2010 - 2017 Dave M
-
-<dave.nerd @ gmail.com>
->>>>>>> 0839fcd1244016b1d590ba2bf4a4dbf9eb68deb4
 
 All rights reserved.  This program is free software; you can
 redistribute it and/or modify it under the terms of either:
@@ -26,7 +20,6 @@ Software Foundation; either version 1, or (at your option)
 any later version, or
 
 b) the "Artistic License".
-<<<<<<< HEAD
 
 The language files are now under BSD licensing.
 See here for more:
@@ -61,5 +54,3 @@ OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY
 OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
 NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-=======
->>>>>>> 0839fcd1244016b1d590ba2bf4a4dbf9eb68deb4
