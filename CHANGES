@@ -1,10 +1,12 @@
 CHANGES for nemo-sendto-clamtk:
 
-0.05 - 20190426
+0.05 - 20210417
 ---------------
-    * Updated language strings: Khmer (km), Thai (th)
+    * Updated language strings
+    * Updated years in multiple places
     * Updated license information for language strings
-    * Updated website link to gitlab
+    * Updated man page
+    * Updated README.md - updated links, install info, more
 
 0.04 - 20171001
 ---------------

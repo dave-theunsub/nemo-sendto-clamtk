@@ -1,41 +1,45 @@
-README
-------
-Last updated 20190426
+README.md              
+-----------------------
+Last updated 20210417  
 
 ## About
 
 nemo-sendto-clamtk is a simple plugin to allow a right-click,
-context menu scan of files or folders in nemo, the
-file manager for Cinnamon.
-
-All this plugin does is copy a desktop style file to the
-directory where nemo reads such things.  If this seems redundant,
-that's because it is: this plugin depends on clamtk,
-which already has this directory file. So, it stands to
-reason we should be able to just find that file and
-copy it, rather than having our own copy.
+context menu scan of files or folders in nemo.
 
 nemo-sendto-clamtk is available for Fedora, CentOS, and
-Debian|Ubuntu - or probably any system that can run Cinnamon.
+Debian|Ubuntu - or probably any system with nemo.  
 
-Link to screenshot:
-* http://imgur.com/YgzL7xH
+All this plugin does is copy a desktop style file to the
+directory where nemo reads such things.  
+
+The good news is that this directory - /usr/share/nemo/actions/ - seems pretty standard across nemo installations. So, if you use a distribution using other than rpms or debs that I build, just copy the nemo-sendto-clamtk.nemo_action file from the source to /usr/snemo-sendto-clamtk.nemo_actionzhare/nemo/actions/, like so:  
+
+```
+tar xf nemo-sendto-clamtk-0.05.tar.xz
+cd nemo-sendto-clamtk-0.05
+sudo cp nemo-sendto-clamtk.nemo_action /usr/share/nemo/actions/
+```
+
+Screenshot: http://imgur.com/YgzL7xH
 
 ## Dependencies
 
+You shouldn't be using such an old version of clamtk, but technically it would work with version 5.00 and up.  
+
 clamtk >= 5.00
-nemo
+nemo  
 
 ## Important Links
-
+  
 For feature requests or bugs, it's best to use one of the following:
 
-* https://gitlab.com/dave_m/nemo-sendto-clamtk
-* https://bitbucket.org/davem_/nemo-sendto-clamtk/
+https://github.com/dave-theunsub/nemo-sendto-clamtk
+https://gitlab.com/dave_m/nemo-sendto-clamtk
   
 Deprecated:
-* https://github.com/dave-theunsub/nemo-sendto-clamtk
+https://bitbucket.org/davem_/nemo-sendto-clamtk/
 
 ## Contact
 
-* Dave M, dave.nerd @gmail.com (0x6ADA59DE)
+Dave M, dave.nerd @gmail.com (0xF51D19546ADA59DE)
