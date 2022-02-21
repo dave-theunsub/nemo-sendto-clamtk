@@ -11,8 +11,8 @@
 
 Name=Scan for threats...
 
-# Quotes fixes the filename with spaces issue
-Quotes=double
+# Quote fixes the filename with spaces issue
+Quote=double
 
 Exec=clamtk %F
 Icon-Name=clamtk
