@@ -1,6 +1,6 @@
 README.md              
 -----------------------
-Last updated 20210417  
+Last updated or reviewed 20220221
 
 ## About
 
@@ -13,11 +13,11 @@ Debian|Ubuntu - or probably any system with nemo.
 All this plugin does is copy a desktop style file to the
 directory where nemo reads such things.  
 
-The good news is that this directory - /usr/share/nemo/actions/ - seems pretty standard across nemo installations. So, if you use a distribution using other than rpms or debs that I build, just copy the nemo-sendto-clamtk.nemo_action file from the source to /usr/snemo-sendto-clamtk.nemo_actionzhare/nemo/actions/, like so:  
+The good news is that this directory - /usr/share/nemo/actions/ - seems pretty standard across nemo installations. So, if you use a distribution using other than rpms or debs that I build, just copy the nemo-sendto-clamtk.nemo_action file from the source to /usr/share/nemo/actions/, like so:  
 
 ```
-tar xf nemo-sendto-clamtk-0.05.tar.xz
-cd nemo-sendto-clamtk-0.05
+tar xf nemo-sendto-clamtk-0.06.tar.xz
+cd nemo-sendto-clamtk-0.06
 sudo cp nemo-sendto-clamtk.nemo_action /usr/share/nemo/actions/
 ```
 
@@ -37,9 +37,8 @@ For feature requests or bugs, it's best to use one of the following:
 https://github.com/dave-theunsub/nemo-sendto-clamtk
 https://gitlab.com/dave_m/nemo-sendto-clamtk
   
-Deprecated:
-https://bitbucket.org/davem_/nemo-sendto-clamtk/
+https://github.com/dave-theunsub/clamtk
 
 ## Contact
 
-Dave M, dave.nerd @gmail.com (0xF51D19546ADA59DE)
+Dave M, dave.nerd@gmail.com (0xF51D19546ADA59DE)

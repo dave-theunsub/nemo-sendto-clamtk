@@ -1,22 +1,23 @@
-# ClamTk, copyright (C) 2004-2021 Dave M
+# ClamTk, copyright (C) 2004-2022 Dave M
 #
 # This file is part of ClamTk.
 # https://github.com/dave-theunsub/nemo-sendto-clamtk
+# https://gitlab.com/dave_m/nemo-sendto-clamtk
+#
 # https://gitlab.com/dave_m/clamtk/wikis/home
 #
-# nemo-sendto-clamtk.nemo_action 0.05
+# nemo-sendto-clamtk.nemo_action 0.06
 [Nemo Action]
 
 Name=Scan for threats...
 
+# Quotes fixes the filename with spaces issue
+Quotes=double
+
 Exec=clamtk %F
-
 Icon-Name=clamtk
-
 Selection=Any
-
 Label=''
-
 Extensions=any;
 
 Name=Scan for threats...
@@ -50,8 +51,8 @@ Name[km]=វិភាគរកការគំរាមកំហៃង...
 Name[ko]=위험 요소를 검사합니다...
 Name[mnw_MM]=စိစောတ်ဂၠိုက်ဂၠာဲအန္တရာယ်
 Name[ms]=Imbas jika ada ancaman...
-Name[nl]=Scannen op virussen…
 Name[nb]=Skann etter virus...
+Name[nl]=Scannen op virussen…
 Name[nn]=Skann...
 Name[pa]=ਧਮਕਿਯਾੰ ਲਈ ਖੋਜ ਕਰੋ
 Name[pl]=Przeskanuj pliki w poszukiwaniu wirusów...
@@ -108,6 +109,7 @@ GenericName[nb]=Virusskanner
 GenericName[nl]=Virusscanner
 GenericName[nl_BE]=Virusscanner
 GenericName[nn]=Virusskannar
+GenericName[pa]=ਵਿਸ਼ਾਣੂ ਖੋਜੀ"
 GenericName[pl]=Skaner wirusów
 GenericName[pt]=Verificador de vírus
 GenericName[pt_BR]=Antivírus Escaner

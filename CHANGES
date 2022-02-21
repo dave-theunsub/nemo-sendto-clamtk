@@ -1,5 +1,12 @@
 CHANGES for nemo-sendto-clamtk:
 
+0.06 - 20220221
+---------------
+    * Fix for handling file names with spaces
+    * Add [nb] and [pa] language strings
+    * Updated README.md
+    * Updated years, 2021 -> 2022
+
 0.05 - 20210417
 ---------------
     * Updated language strings
