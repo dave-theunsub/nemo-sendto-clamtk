@@ -34,7 +34,7 @@ nemo
   
 For feature requests or bugs, it's best to use one of the following:
 
-https://github.com/dave-theunsub/nemo-sendto-clamtk
+https://github.com/dave-theunsub/nemo-sendto-clamtk  
 https://gitlab.com/dave_m/nemo-sendto-clamtk
   
 https://github.com/dave-theunsub/clamtk
