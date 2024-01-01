@@ -1,5 +1,11 @@
 CHANGES for nemo-sendto-clamtk:
 
+0.07 - 202401xx
+---------------
+    * Fix to German language string in nemo-sendto-clamtk.nemo_action (Github PR #1)
+    * Updated GPG key information
+    * Updated years, 2022 -> 2024
+
 0.06 - 20220221
 ---------------
     * Fix for handling file names with spaces
