@@ -1,6 +1,6 @@
 CHANGES for nemo-sendto-clamtk:
 
-0.07 - 202401xx
+0.07 - 20240124
 ---------------
     * Fix to German language string in nemo-sendto-clamtk.nemo_action (Github PR #1)
     * Updated GPG key information
