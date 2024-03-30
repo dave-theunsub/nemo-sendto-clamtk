@@ -1,6 +1,7 @@
 # README for nemo-sendto-clamtk
 
 Note: This program is no longer maintained.
+https://github.com/dave-theunsub/clamtk/issues/163
 
 This readme file was last checked or updated 20240330.
 
